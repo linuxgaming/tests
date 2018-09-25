@@ -4,7 +4,7 @@
 **Date tested** | |
  | |
 **System information**
-OS version | |
+OS release / kernel | |
 CPU / GPU | |
 Graphics driver | |
  | |
