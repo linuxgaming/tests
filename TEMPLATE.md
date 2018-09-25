@@ -1,9 +1,12 @@
--|Arch Linux	|SteamOS
----|:---:|:---:
+- | SteamOS | Arch Linux | Ubuntu | Debian
+---|:---:|:---:|:---:|:---:
 **Game title**  | |
 **Date tested** | |
  | |
-Engine  | |
+**System information**
+OS version | |
+CPU / GPU | |
+Graphics driver | |
  | |
 **Gameplay**
 Progress  | |
@@ -30,4 +33,7 @@ Achievements | |
 Cloud saves | |
 Multiplayer | |
 Streaming | |
-
+ | |
+**Misc**
+Game engine  | |
+Notes | |
