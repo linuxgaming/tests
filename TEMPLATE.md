@@ -1,5 +1,5 @@
-- | SteamOS | Arch Linux 
----|:---:|:---:
+.| SteamOS | Arch Linux | Ubuntu | Debian
+---|:---:|:---:|:---:|:---:
 **Game title**  | |
 **Date tested** | |
  | |
