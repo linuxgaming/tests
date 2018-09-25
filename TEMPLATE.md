@@ -1,31 +1,31 @@
 -|Arch Linux	|SteamOS
--|-|-
-Game title  | |
-Date tested
+---|:---:|:---:
+**Game title**  | |
+**Date tested** | |
  | |
 Engine  | |
  | |
-Gameplay  | |
+**Gameplay**
 Progress  | |
 Stability | |
 Quitting  | |
 DLC | |
  | |
-Graphics | |
+**Graphics**
 Windowed | |
 Fullscreen | |
 Resolution | |
 Vsync | |
  | |
-Sound | |
+**Sound** | |
  | |
-Controls | |
+**Controls**
 Keyboard | |
 Mouse | |
 Xbox360 Controller | |
 Steam Controller | |
  | |
-Steam integration | |
+**Steam integration**
 Achievements | |
 Cloud saves | |
 Multiplayer | |
