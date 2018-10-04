@@ -1,11 +1,12 @@
 .| SteamOS | Arch Linux | Ubuntu | Debian
 ---|:---:|:---:|:---:|:---:
 **Game title**  | |
+**Rating** | |
 **Date tested** | |
  | |
 **System information**
 OS release / kernel | |
-CPU / GPU | |
+CPU / GPU / Mem | |
 Graphics driver | |
  | |
 **Gameplay**
