@@ -18,7 +18,7 @@ Quitting  | broken (see notes) | works |
 DLC | n/a | n/a | 
  | |
 **Graphics**
-Windowed | not tested | yes | 
+Windowed | not tested | works but can't change size | 
 Fullscreen | works | works | 
 Resolution | 1920x1080 | changing doesn't work | 
 Vsync | yes | yes | 
